@@ -6,5 +6,5 @@ Source code for the JdeRobot Challenge - both JdeRobot and C++ part.
 *   Screenshots when running `cameraserver` and `cameraview`
 
 ### C++
-*   Source code of the solution for `Labyrinth`
-*   Build scripts and test cases for `Labyrinth`
+*   Src: Source code of the solution for `Labyrinth`, default read from file `map.txt`
+*   TestCases: Randomly to generate a `Labyrinth`, default output to `map.txt`
