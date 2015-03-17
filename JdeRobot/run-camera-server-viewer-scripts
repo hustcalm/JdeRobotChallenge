@@ -1,0 +1,10 @@
+# The camera used is Logitech Pro 9000
+# Instructions: see http://jderobot.org/index.php/Running_JDErobot#Cameraview
+
+# On one Terminal, run
+cd ~/jderobot/src/stable/components/cameraserver
+./cameraserver --Ice.Config=cameraserver.cfg
+
+# On another Terminal, run
+cd ~/jderobot/src/stable/components/cameraview
+./cameraview --Ice.Config=cameraview.cfg

@@ -1,0 +1,7 @@
+lihang@kpfu-Precision-T3610:~/dev/gsoc2015$ git clone https://github.com/RoboticsURJC/JdeRobot >> JdeRobotChallenge/JdeRobot/logs/git-clone.log
+Cloning into 'JdeRobot'...
+remote: Counting objects: 11521, done.
+remote: Total 11521 (delta 0), reused 0 (delta 0), pack-reused 11521
+Receiving objects: 100% (11521/11521), 49.98 MiB | 1.73 MiB/s, done.
+Resolving deltas: 100% (7783/7783), done.
+Checking connectivity... done.
